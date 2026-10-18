@@ -1,6 +1,6 @@
 # onit para Android
 
-Descarga la beta de onit desde [la primera versión publicada](https://github.com/FlyingKoala01/onit-apk-releases/releases/tag/v0.2.0-beta.1) o usa el [enlace directo a la APK](https://github.com/FlyingKoala01/onit-apk-releases/releases/download/v0.2.0-beta.1/onit-android-v0.2.0-beta.1.apk).
+Descarga la beta de onit desde [la primera versión publicada](https://github.com/FlyingKoala01/onit-apk-releases/releases/tag/v0.2.0-beta.1) o usa el [enlace directo a la APK](https://github.com/FlyingKoala01/onit-apk-releases/releases/download/v0.2.0-beta.1/onit.apk).
 
 ## Instalación
 
